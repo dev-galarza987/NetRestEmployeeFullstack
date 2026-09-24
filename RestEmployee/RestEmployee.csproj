@@ -29,4 +29,10 @@
       </Content>
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Feactures\Employees\" />
+      <Folder Include="Feactures\Positions\" />
+      <Folder Include="Shared\Database\" />
+    </ItemGroup>
+
 </Project>
