@@ -1,0 +1,7 @@
+﻿services:
+  restemployee:
+    image: restemployee
+    build:
+      context: .
+      dockerfile: RestEmployee/Dockerfile
+
